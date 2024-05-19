@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="BGO.png">
+  <!--Optimized by itsTomRoyale615 -->
+  <SubTexture name="BGO firstDeath0000" x="2090" y="0" width="389" height="412" frameX="-179" frameY="-201" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0001" x="824" y="1603" width="390" height="401" frameX="-180" frameY="-213" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0002" x="1609" y="1603" width="390" height="395" frameX="-182" frameY="-220" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0003" x="0" y="2022" width="391" height="390" frameX="-181" frameY="-226" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0004" x="1214" y="1603" width="395" height="395" frameX="-180" frameY="-224" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0005" x="415" y="1603" width="409" height="409" frameX="-172" frameY="-218" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0006" x="0" y="1603" width="415" height="419" frameX="-169" frameY="-214" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0007" x="1642" y="452" width="428" height="433" frameX="-163" frameY="-206" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0008" x="1642" y="0" width="448" height="452" frameX="-154" frameY="-197" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0009" x="967" y="1116" width="459" height="468" frameX="-144" frameY="-192" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0010" x="489" y="1116" width="478" height="474" frameX="-135" frameY="-183" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0011" x="0" y="1116" width="489" height="487" frameX="-128" frameY="-183" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0012" x="1124" y="518" width="490" height="499" frameX="-133" frameY="-174" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0013" x="1124" y="0" width="518" height="518" frameX="-118" frameY="-169" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0014" x="562" y="558" width="542" height="532" frameX="-109" frameY="-157" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0015" x="562" y="0" width="562" height="558" frameX="-94" frameY="-139" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0016" x="0" y="558" width="562" height="558" frameX="-94" frameY="-139" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0017" x="0" y="0" width="562" height="558" frameX="-94" frameY="-139" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0018" x="1642" y="885" width="416" height="421" frameX="-170" frameY="-213" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0019" x="2090" y="1025" width="288" height="61" frameX="-240" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0020" x="2090" y="1086" width="288" height="61" frameX="-240" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0021" x="2090" y="1147" width="288" height="61" frameX="-240" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0022" x="2090" y="1208" width="288" height="61" frameX="-240" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO firstDeath0023" x="2090" y="1269" width="288" height="61" frameX="-240" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathLoop0000" x="2090" y="1503" width="308" height="53" frameX="-232" frameY="-339" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathLoop0001" x="2090" y="1447" width="300" height="56" frameX="-235" frameY="-335" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathLoop0002" x="2090" y="1389" width="295" height="58" frameX="-237" frameY="-333" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathLoop0003" x="2090" y="1330" width="291" height="59" frameX="-239" frameY="-332" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathLoop0004" x="2090" y="1269" width="288" height="61" frameX="-240" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0000" x="2090" y="568" width="245" height="194" frameX="-263" frameY="-252" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0001" x="2090" y="412" width="323" height="156" frameX="-229" frameY="-277" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0002" x="1642" y="1306" width="396" height="137" frameX="-190" frameY="-288" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0003" x="391" y="2022" width="474" height="114" frameX="-152" frameY="-300" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0004" x="865" y="2022" width="498" height="104" frameX="-142" frameY="-305" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0005" x="1124" y="1017" width="511" height="99" frameX="-134" frameY="-308" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0006" x="1363" y="2022" width="529" height="92" frameX="-124" frameY="-311" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0007" x="1892" y="2022" width="554" height="79" frameX="-113" frameY="-317" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0008" x="391" y="2136" width="577" height="70" frameX="-103" frameY="-321" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0009" x="968" y="2136" width="628" height="61" frameX="-71" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0010" x="1596" y="2136" width="567" height="61" frameX="-101" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0011" x="391" y="2206" width="526" height="61" frameX="-135" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0012" x="1642" y="1443" width="398" height="61" frameX="-190" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0013" x="2090" y="842" width="346" height="61" frameX="-214" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0014" x="2090" y="964" width="297" height="61" frameX="-239" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0015" x="2090" y="903" width="297" height="61" frameX="-239" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0016" x="1596" y="2136" width="567" height="61" frameX="-101" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0017" x="391" y="2206" width="526" height="61" frameX="-135" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0018" x="1642" y="1443" width="398" height="61" frameX="-190" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0019" x="2090" y="842" width="346" height="61" frameX="-214" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0020" x="2090" y="762" width="296" height="80" frameX="-239" frameY="-330" frameWidth="750" frameHeight="775"/>
+  <SubTexture name="BGO deathConfirm0021" x="2090" y="903" width="297" height="61" frameX="-239" frameY="-330" frameWidth="750" frameHeight="775"/>
+</TextureAtlas>

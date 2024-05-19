@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				82,
+				-18
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "6",
+			"indices": [],
+			"name": "dialogo 6"
+		},
+		{
+			"offsets": [
+				98,
+				30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "7",
+			"indices": [],
+			"name": "dialogo 7"
+		},
+		{
+			"offsets": [
+				38,
+				-4
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "8",
+			"indices": [],
+			"name": "dialogo 8"
+		},
+		{
+			"offsets": [
+				22,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "9",
+			"indices": [],
+			"name": "dialogo 9"
+		},
+		{
+			"offsets": [
+				-2,
+				17
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "10",
+			"indices": [],
+			"name": "dialogo diez"
+		},
+		{
+			"offsets": [
+				-57,
+				-12
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "11",
+			"indices": [],
+			"name": "dialogo 11"
+		},
+		{
+			"offsets": [
+				40,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "12",
+			"indices": [],
+			"name": "dialogo 12"
+		},
+		{
+			"offsets": [
+				53,
+				-38
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "13",
+			"indices": [],
+			"name": "dialogo 13"
+		},
+		{
+			"offsets": [
+				-45,
+				17
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "1",
+			"indices": [],
+			"name": "dialogo uno"
+		},
+		{
+			"offsets": [
+				-10,
+				-63
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "2",
+			"indices": [],
+			"name": "dialogo 2"
+		},
+		{
+			"offsets": [
+				32,
+				1
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "3",
+			"indices": [],
+			"name": "dialogo 3"
+		},
+		{
+			"offsets": [
+				-92,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "4",
+			"indices": [],
+			"name": "dialogo 4"
+		},
+		{
+			"offsets": [
+				12,
+				-23
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "5",
+			"indices": [],
+			"name": "dialogo 5"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				209,
+				19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BFR LEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				98,
+				-9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BFR DOWN",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-20,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BFR UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BFR RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BFR IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Blackfriday",
+	"position": [
+		180,
+		210
+	],
+	"healthicon": "bfr",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		235,
+		235
+	],
+	"camera_position": [
+		-460,
+		-130
+	],
+	"sing_duration": 7.59999999999999,
+	"scale": 2.1
+}

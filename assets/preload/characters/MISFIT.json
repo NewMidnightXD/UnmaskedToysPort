@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-190,
+				-160
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE MISFIT"
+		},
+		{
+			"offsets": [
+				24,
+				-157
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT MISFIT"
+		},
+		{
+			"offsets": [
+				-190,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT MISFIT"
+		},
+		{
+			"offsets": [
+				-28,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP MISFIT"
+		},
+		{
+			"offsets": [
+				-97,
+				-188
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN MISFIT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-180
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "MISFIT ATTACK",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-270,
+				-228
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "MISFIT DODGE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-156
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "MISFIT ANIM",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MISFIT",
+	"position": [
+		-160,
+		100
+	],
+	"healthicon": "misfit",
+	"flip_x": false,
+	"healthbar_colors": [
+		73,
+		40,
+		15
+	],
+	"camera_position": [
+		110,
+		120
+	],
+	"sing_duration": 3.5,
+	"scale": 2.1
+}

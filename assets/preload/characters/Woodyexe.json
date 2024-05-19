@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "WOODY IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				130
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "WOODY RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				273,
+				88
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "WOODY LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				227,
+				230
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "WOODY UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "WOODY DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Woodyexe",
+	"position": [
+		320,
+		430
+	],
+	"healthicon": "exereveal",
+	"flip_x": false,
+	"healthbar_colors": [
+		147,
+		51,
+		0
+	],
+	"camera_position": [
+		-140,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 2.1
+}

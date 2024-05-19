@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-410,
+				250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BGO firstDeath"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-409,
+				252
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BGO deathLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-403,
+				249
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BGO deathConfirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BGO",
+	"position": [
+		-990,
+		170
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-600,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 2.1
+}
